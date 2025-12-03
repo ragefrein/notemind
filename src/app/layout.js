@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Notion Lite - Smart Note Taking',
+  title: 'NoteMind- Smart Note Taking',
   description: 'A modern note taking application with Supabase',
 }
 
